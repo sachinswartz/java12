@@ -9,6 +9,8 @@ public class Employee {
 		Employee a = new Employee();
 		a.emp();
 		
+		System.out.println("company:infosys");
+		
 	}
 
 }
